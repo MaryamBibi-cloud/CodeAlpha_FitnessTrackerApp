@@ -1,0 +1,9 @@
+name: fitness_tracker_app
+description: Fitness Tracker App for CodeAlpha Internship
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
