@@ -1,0 +1,22 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android related
+android/.gradle/
+android/app/build/
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+
+# Misc
+*.log
+*.lock
+*.tmp
+.DS_Store
+.idea/
+.vscode/
